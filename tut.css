@@ -1,0 +1,10 @@
+body{
+    background-image: url("image.jpg");
+    /* background-repeat: no-repeat; */
+    /* background-size:1365px 300px; */
+    /* white-space: pre-wrap; */
+    background-repeat: space;
+    background-position: 0% 0%;
+    background-attachment:local;
+    height: 6000px;
+}
